@@ -14,4 +14,4 @@ def test_div():
     assert div(100, 5) == 20
 
 def test_power():
-    assert power(2, 9) == 81
+    assert power(2, 9) == 512
