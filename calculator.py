@@ -13,3 +13,5 @@ def div(a, b):
         raise ZeroDivisionError("Деление на ноль")
     return a / b
 
+def power(a, b):
+    return a ** b
